@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volumeCloud", "volumeCloud\volumeCloud.csproj", "{D3AB7AB2-993A-4D3A-99F6-D1EB884ABC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AB7AB2-993A-4D3A-99F6-D1EB884ABC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AB7AB2-993A-4D3A-99F6-D1EB884ABC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AB7AB2-993A-4D3A-99F6-D1EB884ABC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AB7AB2-993A-4D3A-99F6-D1EB884ABC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845afcff-d017-477b-9402-6fea47461bf8}
+	EndGlobalSection
+EndGlobal
